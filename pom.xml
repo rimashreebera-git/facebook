@@ -4,8 +4,6 @@
   <artifactId>kms-api-examples</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-		
-			<dependenc>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
 			<version>4.3.2</version>
